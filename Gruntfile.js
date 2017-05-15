@@ -4,6 +4,7 @@ var defaults = [
     'globals',
     'aes-cbc',
     'aes-gcm',
+    'aes-ctr',
     'sha1',
     'sha256',
     'hmac-sha1',
